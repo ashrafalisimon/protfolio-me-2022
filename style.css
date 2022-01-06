@@ -1,4 +1,77 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    padding-bottom: 80px;
+}
+img{
+    width: 100%;
+}
+.d-flex{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.mission-2022{
+    border-left: 7px solid #FF5959;
+    padding-left: 15px;
+    border-radius: 5px;
+}
+.mission-2022 h1{
+    font-size: 60px;
     font-family: 'Yeseva One', cursive;
+    color: #333333;
+}
+.light-orange{
+    color: #FFAD5A !important;
+}
+p{
+    color: #3E3E3E;
+    font-size: 18;
+    font-weight: 400;
+    line-height: 1.7rem;
+    padding: 10px 0;
+}
+.red-button{
+    background-color: #FF5959;
+    padding: 12px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+h2{
+    color: #13103A;
+    font-size: 48px;
+    font-weight: bold;
+}
+section h2{
+    text-align: center;
+}
+.three-row{
+    width: 28%;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 15px;
+}
+.three-row img{
+    width: 60%;
+}
+h4{
+    font-size: 24px;
+    margin: 0;
+}
+#mission{
+    background-color: rgba(79, 157, 166, 0.10)
+    ;
+}
+#vision{
+    background-color: rgba(255, 89, 89, 0.10)
+    ;
+}
+#goals{
+    background-color: rgba(255, 244, 214, 0.50);
 }
