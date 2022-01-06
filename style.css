@@ -94,5 +94,20 @@ h3{
 }
 .our-projects-area{
     text-align: center;
-    background-color: rgba(255, 244, 214, 0.50);
+    background-color: rgba(255, 244, 214, 0.30);
+}
+footer{
+ background-color: #0B0D17;
+ text-align: center;
+ padding: 30px;
+}
+footer h3{
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+footer h3 span{
+    color: #FF5959
+}
+footer p{
+    color: white;
 }
